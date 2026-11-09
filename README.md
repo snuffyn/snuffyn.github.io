@@ -1,5 +1,7 @@
-# snuffyn.github.io
+# Thalisson Prata
 
-Página raiz pública do usuário. Redireciona para a landing page da Thalisson Prata:
+Landing page pública da Thalisson Prata.
 
-https://snuffyn.github.io/thalisson-prata/
+Site: https://snuffyn.github.io/
+
+O código-fonte React está em: https://github.com/snuffyn/thalisson-prata
