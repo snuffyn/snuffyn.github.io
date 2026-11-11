@@ -1,7 +1,7 @@
-# Thalisson Prata
+# D&TH Jóias
 
-Landing page pública da Thalisson Prata.
+Landing page pública da D&TH Jóias.
 
 Site: https://snuffyn.github.io/
 
-O código-fonte React está em: https://github.com/snuffyn/thalisson-prata
+Código-fonte: https://github.com/snuffyn/thalisson-prata
